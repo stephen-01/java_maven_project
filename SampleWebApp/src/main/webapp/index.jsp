@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Akeem_java_project</title>
+    <title>Wole_java_project</title>
   </head>
   <body bgcolor="#7FFF00">
     <h1>Jenkins is a CI/CD pipeline tool, it helps to integrate devops tools to automate delivery of application or software. I like terraform as an IAAC because it is an open source </h1>
