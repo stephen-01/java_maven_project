@@ -14,6 +14,7 @@
                 <input type ="radio" name="genre" value="cloud"/>cloud <br />
                 <input type ="radio" name="genre" value="DevOps"/>DevOps <br />
                 <input type ="radio" name="genre" value="Python"/>Python <br />
+                <input type ="radio" name="genre" value="Standups"/>Standups <br />
             </p>
 
             <p>select your favourite music service <br /> <!--Checkbox control-->
